@@ -1,6 +1,6 @@
 # Macroeconomic-Model
 
-Running the program on Windows.  
+Running the program on Windows:  
   Since the software is not certified yet, it will be flagged by Windows Defender Smartscreen, 
   saying that it "prevented an unrecognized app from starting".
   
