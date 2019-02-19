@@ -7,8 +7,8 @@ Running the program on Windows.
   First solution:
     When the screen pops up, click more info and then run anyway.
     
-  Second solution:
-    If the option above is not available.
+  Second solution:\n
+    If the option above is not available.\n
     1. Right click on the program
     2. Click properties
     3. Check the "Unblock" box.
